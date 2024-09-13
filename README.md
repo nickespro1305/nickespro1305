@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/nickespro1305/nickespro1305/main/ASSETS/fyrS.gif" width="150"/>
+<img src="https://raw.githubusercontent.com/nickespro1305/nickespro1305/main/ASSETS/fyrS.gif" width="1500"/>
