@@ -1,1 +1,1 @@
-![](https://github.com/nickespro1305/nickespro1305/blob/main/ASSETS/fyrS.gif)
+<img src="https://raw.githubusercontent.com/nickespro1305/nickespro1305/main/ASSETS/fyrS.gif" width="150"/>
